@@ -3,4 +3,5 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Apple is sweet.
-onefaboy is really not handsome
+onefaboy is really not handsome.
+no fast forward.
