@@ -5,3 +5,4 @@ Git tracks changes of files.
 Apple is sweet.
 Onefaboy is really not handsome.
 There is no fast forward.
+There is an error.
