@@ -1,0 +1,1 @@
+public double method(double d1,double d2){...}
